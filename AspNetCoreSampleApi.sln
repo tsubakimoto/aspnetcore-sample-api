@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreSampleApi", "AspNetCoreSampleApi\AspNetCoreSampleApi.csproj", "{EF010902-6EE7-4BA0-A100-854C7B4CD8B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{261F8DC9-25CB-4C48-8111-E43FD04C10D0}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF010902-6EE7-4BA0-A100-854C7B4CD8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF010902-6EE7-4BA0-A100-854C7B4CD8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF010902-6EE7-4BA0-A100-854C7B4CD8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF010902-6EE7-4BA0-A100-854C7B4CD8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3673711-3475-4A26-AC43-4E980BD02A55}
+	EndGlobalSection
+EndGlobal
